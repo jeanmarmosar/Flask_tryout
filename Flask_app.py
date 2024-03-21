@@ -6,4 +6,4 @@ if __name__ == '__main__':   app.run(port=5000,debug=True)
 
 @app.route('/')
 def home():    
-    return "Hello World"
+    return "B Connected For Life"
